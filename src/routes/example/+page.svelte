@@ -13,7 +13,10 @@
 			<strong>Click and drag</strong> to rotate the camera.
 		</p>
 		<p>
-			<strong>Click the ball or water</strong> to test physics.
+			<strong>Hover</strong> over the sphere to scale it up.
+		</p>
+		<p>
+			<strong>Click the sphere</strong> to shrink it.
 		</p>
 	</div>
 </div>
